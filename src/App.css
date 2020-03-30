@@ -1,0 +1,4 @@
+.App {
+  text-align: center;
+  touch-action: none;   /* 去除滑动时默认现象产生，但不影响事件触发 */
+}
